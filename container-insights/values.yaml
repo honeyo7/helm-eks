@@ -9,6 +9,10 @@ imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
 
+clusterName: ec2-eks-demo
+
+region: us-east-1
+
 podAnnotations: {}
 
 podSecurityContext: {}
