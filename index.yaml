@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  container-insights:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-12-23T12:05:26.4599815+05:30"
+    description: A Helm chart for eks cloudwatch
+    digest: 6e1eb852bbbef2c87be93b0167f80323579c75e9480786f4ed978f9b69f4e2de
+    name: container-insights
+    type: application
+    urls:
+    - container-insights-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-12-23T12:05:26.4521654+05:30"
